@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\aigul\\teamwork\\Calcuator\\",
+  "WorkspaceRootPath": "C:\\Users\\aigul\\teamwork\\Teamwork-lab\\Calcuator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6CD1DA70-530B-4286-BADB-BE5E10EA7509}|Calcuator\\Calcuator.csproj|c:\\users\\aigul\\teamwork\\calcuator\\calcuator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6CD1DA70-530B-4286-BADB-BE5E10EA7509}|Calcuator\\Calcuator.csproj|c:\\users\\aigul\\teamwork\\teamwork-lab\\calcuator\\calcuator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CD1DA70-530B-4286-BADB-BE5E10EA7509}|Calcuator\\Calcuator.csproj|solutionrelative:calcuator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\aigul\\teamwork\\Calcuator\\Calcuator\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\aigul\\teamwork\\Teamwork-lab\\Calcuator\\Calcuator\\Program.cs",
               "RelativeDocumentMoniker": "Calcuator\\Program.cs",
-              "ToolTip": "C:\\Users\\aigul\\teamwork\\Calcuator\\Calcuator\\Program.cs",
+              "ToolTip": "C:\\Users\\aigul\\teamwork\\Teamwork-lab\\Calcuator\\Calcuator\\Program.cs",
               "RelativeToolTip": "Calcuator\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-18T12:04:30.529Z",
               "EditorCaption": ""
