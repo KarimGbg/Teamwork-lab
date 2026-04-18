@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aigul\\teamwork\\Calcuator\\Calcuator\\Calcuator.csproj",
+      "projectUniqueName": "C:\\Users\\aigul\\teamwork\\Teamwork-lab\\Calcuator\\Calcuator\\Calcuator.csproj",
       "projectName": "Calcuator",
-      "projectPath": "C:\\Users\\aigul\\teamwork\\Calcuator\\Calcuator\\Calcuator.csproj",
+      "projectPath": "C:\\Users\\aigul\\teamwork\\Teamwork-lab\\Calcuator\\Calcuator\\Calcuator.csproj",
       "packagesPath": "C:\\Users\\aigul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aigul\\teamwork\\Calcuator\\Calcuator\\obj\\",
+      "outputPath": "C:\\Users\\aigul\\teamwork\\Teamwork-lab\\Calcuator\\Calcuator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
